@@ -1,5 +1,14 @@
 ### Hi there 👋
 
+
+I work at Azure Core as part of the Azure Specialized group with a focus on Private Cloud SDN.
+
+Sometimes I blog here https://tech.masters3d.com
+
+
+
+
+
 <!--
 **masters3d/masters3d** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
